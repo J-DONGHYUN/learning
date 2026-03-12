@@ -8,7 +8,6 @@
 - GitHub
 - Branch Strategy
 - Commit Convention
-- Pull Request
 
 ## 📂 Contents
 
@@ -18,7 +17,6 @@
 | GitHub 사용법 | github.md |
 | Branch 전략 | branch.md |
 | Commit 규칙 | commit.md |
-| Pull Request | pull-request.md |
 
 ## 목표
 
